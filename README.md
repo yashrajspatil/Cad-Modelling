@@ -40,7 +40,7 @@ Practiced CAD modeling by recreating the given geometry in SolidWorks.
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bba8f226-4580-4810-8779-1fd2fa7fbbf6" />
 
-Score: 60/100
+Score: 60/100(Sprint mode)
 
 **Status:** Completed
 
@@ -51,7 +51,7 @@ Took nearly 20min for it, but recreated it and did it in nearly half time after 
 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/bf0af06c-36ae-4496-8521-f0f23d1da0b7" />
 
-Score: 60/100
+Score: 60/100(Sprint mode)
 
 **Status:** Completed
 
