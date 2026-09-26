@@ -55,9 +55,17 @@ Score: 60/100(Sprint mode)
 
 **Status:** Completed
 
+### Question 04: Shaft Holder
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/0e6be9e1-248b-452d-9f34-4efd47c10f51" />
+
+
+Score: 80/100(Relaxed mode)
+Learned how to use rib feature, i was getting confused at a same point again and again, then i saw some useful methods, now it feels easy.
+**Status:** Completed
 ## Progress
 
-**Total problems solved:** 3
+**Total problems solved:** 4
 
 
 Continued practicing feature-based modeling and accurate geometry creation.
