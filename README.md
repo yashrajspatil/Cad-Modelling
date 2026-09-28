@@ -63,9 +63,27 @@ Score: 60/100(Sprint mode)
 Score: 80/100(Relaxed mode)
 Learned how to use rib feature, i was getting confused at a same point again and again, then i saw some useful methods, now it feels easy.
 **Status:** Completed
+### Question 05: Pencil
+
+<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/dbda002a-3b1f-419f-8d4c-cdcdec8ecddc" />
+
+
+
+Score: 100/100(Sprint mode)
+Learned how to use revolve cut feature, it was looking so complex before clicking on the problem but it was easy just the revolve cut was the main part.
+**Status:** Completed
+### Question 06: Paper clip
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/08c66083-1c82-40ac-9352-15c054a88314" />
+
+
+
+Score: 84/100(Sprint mode)
+Learned how to use sweep feature.
+**Status:** Completed
 ## Progress
 
-**Total problems solved:** 4
+**Total problems solved:** 6
 
 
 Continued practicing feature-based modeling and accurate geometry creation.
