@@ -81,6 +81,19 @@ Learned how to use revolve cut feature, it was looking so complex before clickin
 Score: 84/100(Sprint mode)
 Learned how to use sweep feature.
 **Status:** Completed
+
+
+### Question 07: Child Step
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1b371393-abac-4092-82ee-630cc29e2b8c" />
+
+
+
+Score: 60/100(Sprint mode)
+It had a complex drawing which cleared a lot of my doubts.
+**Status:** Completed
+
+
 ## Progress
 
 **Total problems solved:** 6
