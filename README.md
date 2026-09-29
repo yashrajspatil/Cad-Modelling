@@ -96,7 +96,7 @@ It had a complex drawing which cleared a lot of my doubts.
 
 ## Progress
 
-**Total problems solved:** 6
+**Total problems solved:** 7
 
 
 Continued practicing feature-based modeling and accurate geometry creation.
