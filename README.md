@@ -93,10 +93,23 @@ Score: 60/100(Sprint mode)
 It had a complex drawing which cleared a lot of my doubts.
 **Status:** Completed
 
+### Question 08: Toy Brick
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7019899b-c8e7-4a4b-9b85-441dc7eadf93" />
+
+
+
+Score: 60/100(Sprint mode)
+
+In this drawing i learned about constraints, i chose wrong method which made the whole model wrong but soon after i found out the correct way to constraint the sketch.
+
+**Status:** Completed
+
 
 ## Progress
 
-**Total problems solved:** 7
+**Total problems solved:** 8
+
 
 
 Continued practicing feature-based modeling and accurate geometry creation.
