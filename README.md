@@ -105,10 +105,40 @@ In this drawing i learned about constraints, i chose wrong method which made the
 
 **Status:** Completed
 
+### Question 09: Star
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ef21369b-3a57-432f-ac98-912a6fe42f08" />
+
+
+
+
+Score: 60/100(Sprint mode)
+
+
+At first it looked confusing, but using loft feature with a point and profile made it so easy.
+
+
+**Status:** Completed
+
+### Question 10: Nozzle
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a288528b-b2d4-490b-864f-0f82039c549f" />
+
+
+
+
+
+Score: 60/100(Sprint mode)
+
+
+This model was looking easy at first but later i struggled a lot, then after applying few methods i wasn't able to solve it, but after watching the tutorial, it feels like it as easy as any other level 1 problem just require a right approach.
+
+
+**Status:** Completed
+
 
 ## Progress
 
-**Total problems solved:** 8
+**Total problems solved:** 10
 
 
 
