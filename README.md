@@ -134,11 +134,23 @@ This model was looking easy at first but later i struggled a lot, then after app
 
 
 **Status:** Completed
+### Question : B_spline_solid_model
+<img width="1917" height="1078" alt="Screenshot 2026-10-07 154850" src="https://github.com/user-attachments/assets/a75627b9-607c-4504-a679-0ceb3fa15fe2" />
 
+
+
+This model was for informative knowledge.
+
+
+I learned new things while designing this model.
+
+
+**Status:** Completed
 
 ## Progress
 
 **Total problems solved:** 10
+
 
 
 
