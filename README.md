@@ -147,9 +147,27 @@ I learned new things while designing this model.
 
 **Status:** Completed
 
+
+### Question 11: Combination wrench
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a3855f74-b12c-4224-bb6b-c0a88b81205c" />
+
+
+
+
+
+Score: 30/100(Sprint mode)  (Score is low due to wrong entries)
+
+
+This model was easy to make but i messed up in equations due to which my entries got wrong, i also learned how to make the star type structure for grip at the end, overall it was good experience.
+
+
+**Status:** Completed
+
+
+
 ## Progress
 
-**Total problems solved:** 10
+**Total problems solved:** 11
 
 
 
@@ -159,4 +177,5 @@ Continued practicing feature-based modeling and accurate geometry creation.
 ---
 
 This repository will be updated as I solve more CAD Quest problems.
+
 
