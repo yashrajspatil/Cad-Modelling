@@ -165,9 +165,26 @@ This model was easy to make but i messed up in equations due to which my entries
 
 
 
+### Question 12: Pulley
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4aea0bb1-6774-44c6-91e9-0dc1ad1e0dec" />
+
+
+
+
+
+Score: 60/100(Sprint mode)  
+
+
+Learned a lot about revolution cut in this problem.
+
+
+**Status:** Completed
+
+
 ## Progress
 
-**Total problems solved:** 11
+**Total problems solved:** 12
+
 
 
 
