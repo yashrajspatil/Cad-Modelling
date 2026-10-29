@@ -181,9 +181,23 @@ Learned a lot about revolution cut in this problem.
 **Status:** Completed
 
 
+### Question 13: Swing Arm
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/244b6988-d65f-48b9-9fb5-c0d991809c84" />
+
+
+
+
+
+Score: 60/100(Sprint mode)  
+
+
+Learned a new way to use extrude cut on this model.
+
+
+**Status:** Completed
 ## Progress
 
-**Total problems solved:** 12
+**Total problems solved:** 13
 
 
 
@@ -194,5 +208,6 @@ Continued practicing feature-based modeling and accurate geometry creation.
 ---
 
 This repository will be updated as I solve more CAD Quest problems.
+
 
 
